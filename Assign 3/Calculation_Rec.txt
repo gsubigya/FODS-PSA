@@ -1,0 +1,28 @@
+
+2026-04-12 21:03:42.686722 
+ Numbers: 1, 2 
+ Addition: 3 
+ Subtraction: -1 
+ Multiplication: 2 
+ Division: 0.5000
+
+2026-04-12 21:09:07.148596 
+ Numbers: [1, 2, 3, 4, 5, 6, 7, 8, 9] 
+ Addition: 45 
+ Subtraction: -43 
+ Multiplication: 362880 
+ Division: 2.7557319223985893e-06
+
+2026-04-12 21:09:29.847214 
+ Numbers: [1, 2, 3, 4, 5, 6, 7, 8, 9] 
+ Addition: 45 
+ Subtraction: -43 
+ Multiplication: 362880 
+ Division: 0.0000
+
+2026-04-12 21:09:45.199832 
+ Numbers: [1, 2, 3, 4, 5, 6, 7, 8, 9] 
+ Addition: 45 
+ Subtraction: -43 
+ Multiplication: 362880 
+ Division: 0.000003

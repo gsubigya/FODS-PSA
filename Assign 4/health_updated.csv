@@ -1,0 +1,16 @@
+gender,height,weight,age,BMI,Health_Status
+Male,1.75,75,25,24.489795918367346,Healthy range
+Female,1.6,55,22,21.484374999999996,Healthy range
+Male,1.8,92,35,28.39506172839506,Overweight risk
+Female,1.55,48,28,19.979188345473464,Healthy range
+Male,1.7,85,45,29.411764705882355,Overweight risk
+Female,1.65,60,30,22.03856749311295,Healthy range
+Male,1.85,110,50,32.14024835646457,High risk (Diabetes/Heart)
+Female,1.72,68,24,22.985397512168742,Healthy range
+Male,1.68,72,38,25.510204081632658,Overweight risk
+Female,1.62,95,41,36.19875019051973,Obese
+Male,1.78,65,19,20.515086478979924,Healthy range
+Female,1.58,50,21,20.028841531805796,Healthy range
+Male,1.9,98,29,27.146814404432135,Overweight risk
+Female,1.7,75,33,25.95155709342561,Overweight risk
+Male,1.74,80,27,26.42356982428326,Overweight risk

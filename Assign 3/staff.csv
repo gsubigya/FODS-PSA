@@ -1,0 +1,6 @@
+emp_id,full_name,address,phone_number,marital_status,dependents,salary
+1001,Sunil Sharma,Kathmandu - 8,9808654563,Married,2,75000
+1002,Saksham Yadav,Tinkune Chowk,9808654564,Single,0,62000
+1003,Pranish Gautam,Pokhara,9808654565,Married,1,68000
+1004,Rameshawor Kandel,Lamjung,9808654566,Single,0,90000
+1005,Shreya Pandey,Jhapa,9808654567,Married,3,55000
